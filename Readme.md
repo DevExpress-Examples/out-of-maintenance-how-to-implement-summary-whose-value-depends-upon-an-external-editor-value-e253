@@ -6,6 +6,9 @@
 * [MasterPage.master.cs](./CS/TestGridViewSite81/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/TestGridViewSite81/MasterPage.master.vb))
 <!-- default file list end -->
 # How to implement summary whose value depends upon an external editor value
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e253/)**
+<!-- run online end -->
 
 
 <p>The example below demonstrates how to calculate a summary in the CategoryID column based on the value in the ASPxSpinEdit residing below. Here is how the project works:</p><p>1) A custom callback is sent to the server within the editor's client side NumberChanged event handler.<br />
